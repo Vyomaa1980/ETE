@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Study Material and Timetable for 2nd year </title>
+    
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #b7dbe2;
+      }
+      
+      header {
+        
+        
+        color:  #36486b;
+        padding: 10px;
+      }
+      
+      h1 {
+        margin: 0;
+        color:  #36486b;
+      }
+      
+     
+      
+      main {
+        margin: 10px;
+      }
+      
+      section {
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin-bottom: 10px;
+      }
+      
+      section h2 {
+        margin-top: 0;
+      }
+      
+      footer {
+        background-color:#990000;
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+      }
+      
+      footer p {
+        margin: 0;
+      }
+      h2{
+        color:  #36486b;
+        text-align:left;
+        
+      }
+      p{
+        
+        color:  #381f3c;
+        text-align: left;
+      }
+      li{
+        
+        color:  #381f3c;
+        text-align: left;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1> 2nd Year B.E</h1>
+    </header>
+   
+    <main>
+      <section id="Student-list">
+        <h2>Student List</h2>
+        <a href="stdlist.html">Student List </a>
+      </section>
+      <section id="study-material">
+        <h2>Study Material</h2>
+        <p>Here's the study material for 2nd  year:</p>
+        <ul>
+          <li>Semester 3</li>
+          <a href="https://drive.google.com/drive/folders/11ZeK7yCzaIUw01nONSKMWYaneyz8aaUV">https://drive.google.com/drive/folders/1OM-vpppJQ_yKzGbQZzX3NhmUpYZ8Duso</a>
+          <li>Semester 4</li>
+          <a href="https://drive.google.com/drive/folders/1-DiV85N37othQ5QYd44O3EXzDJteZIaN">https://drive.google.com/drive/folders/1OM-vpppJQ_yKzGbQZzX3NhmUpYZ8Dusok</a>
+        </ul>
+      </section>
+      <section id="question-papers">
+        <h2>Question Papers</h2>
+        <p>Here are the question papers for 4th sem</p>
+        <a href="https://drive.google.com/drive/folders/11YJk4fhoWmdKqMIoOW7y6sAgYGBU-dj7">https://drive.google.com/drive/folders/1xUgwh60EFO82ZOXgPgQRbEIX_2nL_ql4</a>
+      </section>
+      <section id="timetable">
+        <h2>Timetable</h2>
+        <p>Here's the timetable for 3rd semester:</p>
+        <img src="" alt="image"/>
+        <p>Here's the timetable for 4th semester </p>
+        <img src="" alt="Image"/>
+      </section>
+    </body>
+    </html>

@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Our Faculty</title>
+    <style>
+        body {
+  font-family: Arial, sans-serif;
+  background-color: #ecebcc;
+}
+
+
+
+h1 {
+  margin: 0;
+}
+
+.facilities {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 20px 0;
+}
+
+.facility {
+  width: 25%;
+  margin-bottom: 20px;
+  background-color:#fafafa;
+  box-shadow: 0 0 10px #d3d7c8;
+  text-align: center;
+  padding: 20px;
+ 
+}
+
+.facility img {
+  width: 100%;
+  height: 200x;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  margin-bottom: 0;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.facility:hover {
+  box-shadow: 0 8px 16px 0 rgb(187, 130, 187);
+}
+
+
+
+    </style>
+  </head>
+  <body>
+    <h2>DEPARTMENT FACULTY</h2>
+<h3>
+    <p>
+        Students of Electronics and Telecommunication department have been truly blessed with amazing professors.
+        <br>
+
+        Their dedication to teach and share their knowledge has created a major impact on the lives of the students.
+        <br>
+
+        From guiding students regarding academics, to helping students with projects and being the best proctors, students
+        could have asked for students of this department feel extremely grateful
+        <br>
+
+         Through this medium, today students of this department would like to take a moment and express gratitude towards 
+        each and every faculty member for being our pillar of support and strength through thick and thin. 
+        <br>
+
+        We look forward to continue making our faculty members extremely proud as we head towards placement season.
+        <br>
+
+    </p>
+</h3>
+    <section class="facilities">
+      <div class="facility">
+        <img src="https://preview.ibb.co/cTAtP5/IMG_20170821_WA0012.jpg" style="width:100%"/>
+    <h3>Dr. B. K. Sujatha</h3>
+
+    <p>Professor Head of Department in Electronics and Telecommunication Engineering department, RIT.</p>
+   
+    <h5>CONTACT FACULTY</h5>
+   <p>Email:bksujatha@msrit.edu</p>
+   <p>Phone: 9448963245</p>
+   
+      </div>
+      <div class="facility">
+        <img src="https://image.ibb.co/iZzjxQ/MyPhoto.jpg" style="width:100%"/>
+    <h3>Dr. Viswanath Talasila</h3>
+
+    <p>Dr. Viswanath Talasila is a Professor in the Electronics and Telecommunication department,RIT. </p>
+   
+    <h5>CONTACT FACULTY</h5>
+   <p>Email: viswanath.talasila@msrit.edu</p>
+   <p>Phone: 802360082</p>
+   
+      </div>
+      </section>
+      <section class="facilities">
+      <div class="facility">
+        <img src="https://image.ibb.co/mv5hHQ/shobha_photo.jpg" style="width:100%" height="300"/>
+    <h3>Dr. Shobha K. R.</h3>
+
+    <p>Dr. Shobha K. R. is working as a Professor in department of Electronics and Telecommunication Engg, RIT. </p>
+   
+    <h5>CONTACT FACULTY</h5>
+   <p>Email: shobha_shankar@msrit.edu</p>
+   <p>Phone:9886493763</p>
+   
+      </div>
+      <div class="facility">
+        <img src="https://image.ibb.co/mwEpWk/tunga.jpg" style="width:100%" height="300"/>
+    <h3>Dr. Satish Tunga</h3>
+
+    <p>Dr. Satish Tunga is working as an Associate Professor in Electronics and Telecommunication Engineering department., RIT.  </p>
+   
+    <h5>CONTACT FACULTY</h5>
+   <p>Email: satish.tunga@msrit.edu</p>
+   <p>Phone:9448384202</p>
+   
+    
+      </div>
+    </section>
+    <section class="facilities">
+        <div class="facility">
+            <img src="https://preview.ibb.co/eTktP5/S_G_SHIVAPRASAD_YADAV.jpg" style="width:100%"/>
+    <h3>Dr. S. G. Shivaprasad Yadav</h3>
+
+    <p>Dr. S. G. Shivaprasad Yadav is working as an Associate Professor in Electronics and Telecommunication Engineering department, RIT.  </p>
+   
+    <h5>CONTACT FACULTY</h5>
+   <p>Email: shivaprasad@msrit.edu</p>
+   <p>Phone: 9880500861</p>
+   
+        </div>
+        <div class="facility">
+            <img src="https://image.ibb.co/dHXjWk/2017_08_29_13_09_29.jpg" style="width:100%"/>
+    <h3>Dr. Parimala Prabhakar</h3>
+
+    <p>Dr. Parimala Prabhakar is working as an Assistant Professor in Electronics and Telecommunication Engineering department, RIT.</p>
+   
+    <h5>CONTACT FACULTY</h5>
+   <p>Email:parimalap@msrit.edu </p>
+   <p>Phone:9845119418</p>
+   </div>
+   
+   <section class="facilities">
+    <div class="facility">
+        <img src="https://image.ibb.co/faVqp5/venu_001.jpg" style="width:100%"/>
+    <h3>Dr.Venu K.N</h3>
+
+    <p>Mr. Venu K.N is working as an Assistant Professor in Electronics and Telecommunication Engineering department, RIT.  </p>
+   
+    <h5>CONTACT FACULTY</h5>
+   <p>Email: venu1.kn@msrit.edu</p>
+   <p>Phone:9448202529</p>
+    </div>
+    <div class="facility">
+        <img src="https://image.ibb.co/iaKWBk/IMG_0458.jpg" style="width:100%"/>
+    <h3>Dr. Ramya H. R.</h3>
+
+    <p>Ramya H. R. is working as an Assistant Professor in Electronics and Telecommunication Engineering department, RIT. </p>
+   
+    <h5>CONTACT FACULTY</h5>
+   <p>Email: ramya_hr@msrit.edu</p>
+   <p>Phone:9845809853</p>
+   
+    </div>
+   </section>
+
+
+   <section class="facilities">
+    <div class="facility">
+        <img src="https://preview.ibb.co/dPPpWk/10622719_833983953292068_5422912471093880830_n.jpg" style="width:100%"/>
+    <h3>Nisha S.L.</h3>
+
+    <p>Nisha S.L. is working as an Assistant Professor in Electronics and Telecommunication Engineering department, RIT. </p>
+   
+    <h5>CONTACT FACULTY</h5>
+   <p>Email: nisha_sln@msrit.edu</p>
+   <p>Phone:  9341959586</p>
+</div>
+    <div class="facility">
+        <img src="https://image.ibb.co/bQMkNQ/SMK.jpg" style="width:100%"/>
+        <h3>Kusuma S. M.</h3>
+    
+        <p>Kusuma S. M. is working as an Assistant Professor in Electronics and Telecommunication Engineering department, RIT </p>
+       
+        <h5>CONTACT FACULTY</h5>
+       <p>Email: kusumasm@msrit.edu</p>
+       <p>Phone:  9900949383</p>
+       
+    </div>
+</section>
+   
+
+
+   <section class="facilities">
+    <div class="facility">
+        <img src="https://image.ibb.co/h9JSHQ/mypic.png" style="width:100%" height="300"/>
+        <h3>Dr. Arvind Kumar G.</h3>
+    
+        <p>Dr. Arvind Kumar G. is a Assistant Professor in Electronics and Telecommunication Engineering department. </p>
+       
+        <h5>CONTACT FACULTY</h5>
+       <p>Email: arvind@msrit.edu</p>
+       <p>Phone: 8095139694</p>
+    </div>
+    <div class="facility">
+        <img src="https://image.ibb.co/cg0jbp/ak.jpg" style="width:100%"/>
+    <h3>Akshata S K</h3>
+
+    <p>Akshata S K is presently working as Assistant Professor in Department of Electronics and Telecommunication Engineering RIT Bangalore.</p>
+ <h5>CONTACT FACULTY</h5>
+   <p>Email: kori.akshu@msrit.edu</p>
+   <p>Phone: 9008188164</p>
+    </div>
+   </section>
+
+        
+  </body>
+</html>

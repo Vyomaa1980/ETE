@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Study Material and Timetable for 1st year </title>
+    
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #b7dbe2;
+      }
+      
+      header {
+        
+        color:  #381f3c;
+        padding: 10px;
+      }
+      
+      h1 {
+        margin: 0;
+        color:  #381f3c;
+      }
+      
+      
+      main {
+        margin: 10px;
+      }
+      
+      section {
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin-bottom: 10px;
+      }
+      
+      section h2 {
+        margin-top: 0;
+      }
+      
+      footer {
+        background-color:#990000;
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+      }
+      
+      footer p {
+        margin: 0;
+      }
+      h2{
+        color:  #381f3c;
+        text-align:left;
+        
+      }
+      p{
+        color:  #381f3c;
+        text-align: left;
+      }
+      li{
+        color:  #381f3c;
+        text-align: left;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1> 1st Year B.E</h1>
+    </header>
+    
+    <main>
+      <section id="Student-list">
+        <h2>Student List</h2>
+        <a href="stdlist.html">Student List </a>
+      </section>
+      <section id="study-material">
+        <h2>Study Material</h2>
+        <p>Here's the study material for 1st year:</p>
+        <ul>
+          <li> 1st Year Notes </li>
+          <a href="https://drive.google.com/drive/folders/11-HxfSd6t1lBowgTHm1CZFQSukHwPgXX">https://drive.google.com/drive/folders/1OM-vpppJQ_yKzGbQZzX3NhmUpYZ8Duso</a>
+        </ul>
+      </section>
+      <section id="question-papers">
+        <h2>Question Papers</h2>
+        <p>Here are the question papers for 1st year</p>
+        <a href="https://drive.google.com/drive/folders/110PEKF0r0R4UcfGZ9yqyhI8aB33EZznn">https://drive.google.com/drive/folders/1xUgwh60EFO82ZOXgPgQRbEIX_2nL_ql4</a>
+      </section>
+      <section id="timetable">
+        <h2>Timetable</h2>
+        <p>Here's the timetable for 1st semester:</p>
+        <img src="" alt="image"/>
+        <p>Here's the timetable for 2nd semester </p>
+        <img src="" alt="Image"/>
+      </section>
+    </body>
+    </html>

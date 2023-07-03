@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body{
+            background-color: rgb(230, 211, 217);
+        }
+        section{
+    width: 80%;
+    margin: 80px auto;
+    
+
+}
+.title{
+    text-align: center;
+    font-size:60px;
+    font-family:'Times New Roman', Times, serif;
+    color:  black;
+    text-decoration: solid;
+    font-weight:bolder;
+}
+.row{
+    display:flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+.row .col img{
+    width:80%;
+    flex-direction: column;
+    align-items: center;
+    display: inline;
+
+
+}
+
+.facilities .row{
+    margin-top: 50px;
+}
+h4{
+    font-size: 3vmin;
+    margin: 20px auto;
+    color: rgb(61, 40, 61);
+}
+p{
+    color:rgb(83, 29, 83);
+    padding: 0px 40px;
+
+}
+.facilities .ctn{
+    margin-top: 30px;
+}
+
+ 
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: large;
+}
+
+h2{
+    text-align: center;
+    color: rgb(82, 49, 82);
+}
+    </style>
+</head>
+<body>
+    <section class="facilities">
+        <div class="title">
+            FACILITIES
+            <div class="line"> </div>
+        </div>
+        <div class="row">
+            <div class="col"> 
+                <img src="acd lab.jpeg" alt="" height="300px"
+                width="400px">
+
+                <h4> ANALOG CIRCUIT DESIGN LAB</h4>
+                <p> The analog circuit design lab,
+                    is located in LHC, 5th level.
+                </p>
+                <p>
+                    The analog circuit design lab is used from 
+                    3rd semester upto 7th semester.
+                    <br>
+                    various practicals are conducted here.
+                    <br>
+                    The subjects are:
+                    <br>
+                    1. ANALOG CIRCUIT DESIGN (3rd semester)
+                    <br>
+                    2.COMMUNICATION SYSTEMS-1 (5th semester)
+                    <br>
+                    3. COMMUNICATION SYSTEMS-2 (6th semester)
+                    <br>
+                    4. COMMUNICATION SYSTEMS-3 (7th semester)
+                    <br>
+                </p>
+                <p>
+                    we have enclosed all material that is necessary!
+                    <br>
+                    <a href="https://drive.google.com/drive/folders/1Yd68VJ6v_EmCjs4LAfXNUFXEwMa9XU1Y"> CLICK HERE FOR CS1 LAB VIDEOS</a>
+                    <br>
+                    <a href="https://drive.google.com/drive/folders/10LgqtnM5owpTBkTcaefgFLmNlPRCRLJ5"> CLICK HERE FOR CS2 LAB VIDEOS</a>
+            
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col"> 
+                <img src="dcd lab.jpeg" alt="" height="300px" width="400px">
+                <h4> DIGITAL CIRCUIT DESIGN LAB</h4>
+                <p> The digital circuit design lab,
+                    is located in DES, 5th level.
+                </p>
+                <p>
+                    The analog circuit design lab is used from 
+                    3rd semester upto 6th semester.
+                    <br>
+                    various practicals are conducted here.
+                    <br>
+                    The subjects are:
+                    <br>
+                    1. DIGITAL CIRCUIT DESIGN (3rd semester)
+                    <br>
+                    2.MICROCONTROLLER (4th semester)
+                    <br>
+                    3. EMBEDDED SYSTEM DESIGN (5th semester)
+                    <br>
+                    4. COMPUTER NETWORKS (6th semester)
+                    <br>
+                </p>
+            
+                <p>
+                    we have enclosed all lab material necessary!
+                    <br>
+                    <a href="https://drive.google.com/drive/folders/10_3KgJ4QrM8of_2J0QGEZnuakfFpkPV8"> CLICK HERE FOR ESD LAB MATERIAL</a>
+                    <br>
+                    <a href="https://drive.google.com/drive/folders/10QsqQ4SyadzTKv7ViMPiM1U39sEUttQ7"> CLICK HERE FOR CCN LAB MATERIAL</a>
+                    <br>
+                    <a href="https://drive.google.com/drive/folders/10SHuYC8q3TsinDZOIUnSRqwqDLorB7IW"> CLICK HERE FOR DSPS LAB MATERIAL</a>
+                    <br>
+                    
+                    
+                </p>
+                
+            </div>
+        </div>
+    </section>
+</body>
+</html>

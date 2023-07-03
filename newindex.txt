@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>ETE WEBSITE!</title>
+    <style>
+        body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #34334f;
+  
+}
+
+
+.navbar {
+ width:auto;
+  background-color: #1c1b43;
+  position: fixed;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: rgb(242, 244, 245);
+  text-align: center;
+
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: rgb(162, 209, 243);
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgb(162, 209, 243);
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:  #eed8da;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:  #eed8da;
+}
+p{
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#eed8da;
+}
+ 
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: large;
+}
+
+h2{
+    text-align: center;
+    color:  #eed8da;
+    font-family: 'Times New Roman', Times, serif;
+}
+.imgg{
+  align-items: center;
+}
+
+
+
+    </style>
+</head>
+<body>
+
+  <header> 
+    <div class="navbar">
+        <a href="#home">HOME</a>
+        <a href="#facc">FACULTY</a>
+        <a href="#facilities">FACILITIES</a>
+       <div class="dropdown">
+          <button class="dropbtn">SELECT YEAR
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a href="first year.html">FIRST YEAR</a>
+            <a href="second year.html">SECOND YEAR</a>
+            <a href="third year.html">THIRD YEAR</a>
+            <a href="#">FOURTH YEAR</a>
+          </div>
+        </div> 
+      </div>
+    </header>
+<pre>
+
+
+
+</pre>
+    <h1>DEPARTMENT OF ELECTRONICS AND TELECOMMUNICATION ENGINEERING</h1>
+    <pre>                                       <img  src="ritpage (2).jpeg" alt="Image"  />  </pre> 
+    <h2 id="home">VISION</h2>
+    <p>To provide an ambience for the students to excel in studies, research and innovation,
+         focusing on meeting global socio-economic needs from a Telecommunication Engineering
+          perspective.</p>
+    <h3>MISSION</h3>
+    <P>Providing high quality technical education to create world class Telecommunication engineers.
+        Creating an ambience for skills development, research and entrepreneurial activities
+         to meet socio-economic needs.
+        </P>
+    <h2>DEPARTMENT PROFILE</h2>
+    <p>The Department of Telecommunication Engineering was established in the year 1996. 
+        <br>
+        The Department offers undergraduate program in B.E with an intake of 60 and M.Tech program 
+        in Digital Communication in the year 2004, with an intake of 18 students. 
+        <br>
+        The Department was renamed, Electronics and Telecommunication Engineering in the year 2019 by 
+        Visvesvaraya Technological University. 
+        <br>
+        The graduate engineering program is governed by a robust and dynamic Quality Management system that
+         covers all academic and co-curricular activities including course revision, delivery, evaluation, 
+         laboratory assignments, and seminars. 
+         <br>
+        The department has state of the art laboratory, equipment resources, and committed faculty having the
+         best of the academic and industry recognition.
+         <br>
+         The Institute is autonomous from 2007. The U.G program is accredited by NBA in the year 2004, 2010, 2016,
+          and 2019 and valid for 3 years till 2022. 
+          <br>
+         The P.G program is accredited by NBA in the year 2019 and valid for 3 years till 2022. 
+         <br>
+         The department has a Research Centre recognized by VTU, Belgaum, offering M.Sc (Engg.) by
+          research and Ph.D. programs since 2012.
+        <br>
+
+       
+    </p>     
+
+<p id="facc">
+<h2>DEPARTMENT FACULTY</h2>
+<h3>
+    <p>
+        Students of Electronics and Telecommunication department have been truly blessed with amazing professors.
+        <br>
+
+        Their dedication to teach and share their knowledge has created a major impact on the lives of the students.
+        <br>
+
+        From guiding students regarding academics, to helping students with projects and being the best proctors, students
+        could have asked for students of this department feel extremely grateful
+        <br>
+
+         Through this medium, today students of this department would like to take a moment and express gratitude towards 
+        each and every faculty member for being our pillar of support and strength through thick and thin. 
+        <br>
+
+        We look forward to continue making our faculty members extremely proud as we head towards placement season.
+        <br>
+
+    </p>
+    <button type="button"><a href="faculty.html"> CLICK HERE FOR FACULTY INFO</a></button>
+    
+</h3>
+</p>
+
+<h2 id="facilities">
+  OUR FACILITIES
+</h2>
+<p>
+  Electronics and Telecommunication department provides multiple facilities
+  <br>
+  The facilities are: ACD LAB, DCD LAB, DEPT LIBRARY etc 
+  <br>
+  <button type="button"><a href="facilities.html"> CLICK HERE FOR FACILITY INFO</a></button>
+  
+</p>
+
+<p>
+  Our department is very well known for it's projects and the seminars conducted 
+  for the enhancment of skills of the beloved students.
+  <br>
+  We've enclosed the link to the main department WEBSITE
+  <br>
+  For further information you could use the link below!
+  <br>
+  
+<button type="button"><a href="https://www.msrit.edu/department/te.html">CLICK HERE </a></button> 
+</div>
+</p>
+</section>
+<footer>
+  <p> This website has been developed by students of ETE Department </p>
+  <p> Under Guidance of Dr. Arvind Kumar G.</p>
+  <p> Developed by: Vyoma, Sai Varsha, Rohini, Kusuma and Chandan, Batch of 2024</p>
+</footer>
+
+</body>
+</html>
